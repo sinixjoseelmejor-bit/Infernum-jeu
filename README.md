@@ -12,6 +12,7 @@ Les versions du jeu sont dans les **[Releases](../../releases)**.
 
 | Fichier | Pour |
 |---|---|
+| `Infernum-<version>-android.apk` | Android : ouvrir le fichier sur le téléphone et autoriser l'installation |
 | `Infernum-<version>-windows.zip` | Windows : décompresser et lancer `Infernum.exe` |
 | `Infernum-<version>-web.zip` | navigateur : à héberger sur un serveur web (ne s'ouvre pas en double-cliquant) |
 | `Infernum-bande-annonce-fr.mp4` · `Infernum-trailer-en.mp4` | la bande-annonce |
@@ -44,11 +45,13 @@ Le jeu est en **français** et en **anglais**.
 
 Les commandes de jeu (déplacement, pouvoir, fiche) se réassignent dans les options.
 
+**Au doigt** (téléphone, tablette) : le joystick se pose sous le pouce dans la moitié gauche de l'écran, le pouvoir est en bas à droite, la pause et la fiche en haut à droite. L'option **Taille de l'interface** agrandit les textes et les boutons.
+
 ---
 
 ## English
 
-**An action roguelite in the depths of hell.** Three damned souls — Cain, Job and Lot — fight wave after wave through an endless hell and the lords who guard it. The game is available in English and French: download it from the **[Releases](../../releases)** (Windows, or a web build to host on a server).
+**An action roguelite in the depths of hell.** Three damned souls — Cain, Job and Lot — fight wave after wave through an endless hell and the lords who guard it. The game is available in English and French: download it from the **[Releases](../../releases)** (Android, Windows, or a web build to host on a server). On a phone, the game is played with touch controls.
 
 ---
 
