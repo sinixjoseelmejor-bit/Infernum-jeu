@@ -12,11 +12,11 @@ Les versions du jeu sont dans les **[Releases](../../releases)**.
 
 | Fichier | Pour |
 |---|---|
-| `Infernum-<version>-windows.zip` | Windows : décompresser et lancer `Infernum.exe` |
+| `Infernum-<version>-windows.zip` | Windows : décompresser et lancer `Infernum.exe` (garder les deux DLL à côté) |
 | `Infernum-<version>-web.zip` | navigateur : à héberger sur un serveur web (ne s'ouvre pas en double-cliquant) |
-| `Infernum-bande-annonce-fr.mp4` · `Infernum-trailer-en.mp4` | la bande-annonce |
+| `Infernum-bande-annonce-fr.mp4` · `Infernum-trailer-en.mp4` · `Infernum-trailer-es.mp4` | la bande-annonce |
 
-Le jeu est en **français** et en **anglais**.
+Le jeu est en **français**, en **anglais** et en **espagnol**.
 
 La version **Android est en pause** : le jeu se concentre d'abord sur le PC. Les APK des versions 0.11.0 à 0.11.2 restent dans les Releases, mais ne sont plus mis à jour.
 
@@ -27,7 +27,7 @@ La version **Android est en pause** : le jeu se concentre d'abord sur le PC. Les
 - **Les seigneurs de l'enfer.** Un boss toutes les cinq vagues — Golgota, Lilith, Baal, Asmodée, Lucifer — chacun avec ses coups, ses phases et son histoire.
 - **Une boutique et une Forge.** Achetez des objets entre les vagues, et renforcez chaque damné pour de bon entre les runs.
 - **Le Déchaînement.** Abattez Lucifer pour le débloquer : plus aucune limite, et une partie qui ne s'arrête plus.
-- **Une histoire à découvrir**, un bestiaire, un registre de pages perdues, et un classement de vos meilleures runs.
+- **Une histoire à découvrir**, un bestiaire, un registre de pages perdues, et un classement mondial de vos meilleures runs.
 
 ![Golgota](images/golgota.jpg)
 
@@ -46,13 +46,13 @@ La version **Android est en pause** : le jeu se concentre d'abord sur le PC. Les
 
 Les commandes de jeu (déplacement, pouvoir, fiche) se réassignent dans les options.
 
-**Sur un écran tactile**, des commandes au doigt s'affichent d'elles-mêmes : le joystick dans la moitié gauche de l'écran, le pouvoir en bas à droite, la pause et la fiche en haut à droite. Si vous jouez au clavier ou à la manette, réglez **Joystick virtuel** sur **Masqué** dans les options. L'option **Taille de l'interface** agrandit les textes et les boutons.
+**Sur un écran tactile**, des commandes au doigt s'affichent d'elles-mêmes : le joystick dans la moitié gauche de l'écran, le pouvoir en bas à droite, la pause et la fiche en haut à droite. Si vous jouez au clavier ou à la manette, réglez **Commandes tactiles** sur **Masqué** dans les options. L'option **Taille de l'interface** agrandit les textes et les boutons.
 
 ---
 
 ## English
 
-**An action roguelite in the depths of hell.** Three damned souls — Cain, Job and Lot — fight wave after wave through an endless hell and the lords who guard it. The game is available in English and French: download it from the **[Releases](../../releases)** (Windows, or a web build to host on a server). The Android version is on hold while the game focuses on PC: the APKs of versions 0.11.0 to 0.11.2 remain in the Releases but are no longer updated.
+**An action roguelite in the depths of hell.** Three damned souls — Cain, Job and Lot — fight wave after wave through an endless hell and the lords who guard it. The game is available in English, French and Spanish: download it from the **[Releases](../../releases)** (Windows, or a web build to host on a server). The Android version is on hold while the game focuses on PC: the APKs of versions 0.11.0 to 0.11.2 remain in the Releases but are no longer updated.
 
 ---
 
